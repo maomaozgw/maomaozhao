@@ -1,0 +1,4 @@
+C:\Users\gzhao\Documents\GitHub\maomaozhao\Interview\bin\Debug\Interview.exe
+C:\Users\gzhao\Documents\GitHub\maomaozhao\Interview\bin\Debug\Interview.pdb
+C:\Users\gzhao\Documents\GitHub\maomaozhao\Interview\obj\x86\Debug\Interview.exe
+C:\Users\gzhao\Documents\GitHub\maomaozhao\Interview\obj\x86\Debug\Interview.pdb
